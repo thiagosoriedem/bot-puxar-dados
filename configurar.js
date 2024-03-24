@@ -32,7 +32,7 @@ nezukoemoji3 = "🌹"
 
 //=====================================//
 //[ definições dono ]
-global.numerodonoa = ["NUMERO-DONO"] //Coloque seu número dentro das aspas para definir
+global.numerodonoa = ["5583986531730"] //Coloque seu número dentro das aspas para definir
 
 global.lolhuman = "RelzzAPIs"
 global.banChats = false
@@ -45,17 +45,17 @@ global.packname = "© C᥆ρᥡrιght bᥡ Nᥱzᥙk᥆ b᥆t"
 
 global.packname2 = `https://youtube.com/@MarcioScheyot` //seu canal do YouTube 
 
-global.author = "NICK-DONO"//seu nome aqui
+global.author = "SORIEDEM"//seu nome aqui
 
 global.sessionName = "qr-code"//conexão do do bot
 
 global.NomeDoBot = "𝐍𝐄𝐙𝐔𝐊𝐎-𝐁𝐎𝐓™𝐕3"//nome do seu bot aqui
 
-global.linkgrupss = "https://chat.whatsapp.com/DTsrSH5CVF66Xvn9Ow61Yn"// link do seu grupo do whatsapp 
+global.linkgrupss = "https://chat.whatsapp.com/B5s0HJR2IsM7TZWDpbayym"// link do seu grupo do whatsapp 
 
 global.prefix = "/"//alteração do prefixo do bot
 
-global.NickDono = "NICK-DONO"//nick dono
+global.NickDono = "Thiago-Medeiros"//nick dono
 
 global.websitex = "https://youtube.com/@MarcioScheyot"
 
